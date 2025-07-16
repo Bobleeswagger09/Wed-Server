@@ -97,5 +97,41 @@
     "photo": "https://wed-server.onrender.com/images/capture.jpg",
     "bio": "Award-winning wedding photographers capturing timeless moments with precision.",
     "availability": ["2025-08-06", "2025-08-25"]
+  },
+  {
+    "id": "12",
+    "name": "Chinedu Bouncer",
+    "location": "Port Harcourt, Nigeria",
+    "price": "₦80,000",
+    "photo": "https://wed-server.onrender.com/images/bouncers.jpg",
+    "bio": "Trusted event bouncer ensuring your wedding is safe and secure.",
+    "availability": ["2025-08-10", "2025-08-22"]
+  },
+  {
+    "id": "13",
+    "name": "Ada Glam",
+    "location": "Enugu, Nigeria",
+    "price": "₦100,000",
+    "photo": "https://wed-server.onrender.com/images/makeup.webp",
+    "bio": "Professional makeup artist with a flair for bridal beauty.",
+    "availability": ["2025-08-12", "2025-08-25"]
+  },
+  {
+    "id": "14",
+    "name": "Yemi Designs",
+    "location": "Ibadan, Nigeria",
+    "price": "₦250,000",
+    "photo": "https://wed-server.onrender.com/images/weddesigner.webp",
+    "bio": "Creative wedding designer bringing elegance and class to your big day.",
+    "availability": ["2025-08-05", "2025-08-30"]
+  },
+  {
+    "id": "15",
+    "name": "Elite SWAT Security",
+    "location": "Kano, Nigeria",
+    "price": "₦300,000",
+    "photo": "https://wed-server.onrender.com/images/swat.jpg",
+    "bio": "Top-tier SWAT team for elite-level event security and VIP protection.",
+    "availability": ["2025-08-18", "2025-09-01"]
   }
 ]
