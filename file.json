@@ -125,5 +125,14 @@
     "photo": "https://wed-server.onrender.com/images/swat.jpg",
     "bio": "Top-tier SWAT team for elite-level event security and VIP protection.",
     "availability": ["2025-08-18", "2025-09-01"]
+  },
+  {
+    "id": "16",
+    "name": "Sparkle Clean Crew",
+    "location": "Ibadan, Nigeria",
+    "price": "₦80,000",
+    "photo": "https://wed-server.onrender.com/images/cleaner.jpg",
+    "bio": "Professional cleaning crew ensuring spotless venues before, during, and after your wedding. Reliable, efficient, and eco-friendly service.",
+    "availability": ["2025-08-22", "2025-09-05"]
   }
 ]
