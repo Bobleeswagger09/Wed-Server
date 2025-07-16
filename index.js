@@ -11,14 +11,14 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(bodyParser.json());
 
-// ✅ Serve static images
+//  Serve static images
 app.use("/images", express.static("images"));
 
-// ✅ API Routes
+//  API Routes
 app.use("/api/coordinators", coordinatorRoutes);
 app.use("/api/bookings", bookingRoutes);
 
-// ✅ Root check route
+//  Root check route
 app.get("/", (req, res) => {
   res.send("Wedding Marketplace Backend Running");
 });

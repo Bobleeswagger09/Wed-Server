@@ -4,7 +4,7 @@
     "name": "Ediong-Seyene Samuel",
     "location": "Lagos, Nigeria",
     "price": "₦150000",
-    "photo": "http://localhost:5000/images/chef.webp",
+    "photo": "https://wed-server.onrender.com/images/chef.webp",
     "bio": "Experienced head chef delivering exquisite wedding menus tailored to your guests.",
     "availability": ["2025-07-20", "2025-08-15"]
   },
@@ -13,7 +13,7 @@
     "name": "Okoro Smith",
     "location": "Abuja, Nigeria",
     "price": "₦120000",
-    "photo": "http://localhost:5000/images/Security.jpeg",
+    "photo": "https://wed-server.onrender.com/images/Security.jpeg",
     "bio": "Reliable chief security officer ensuring safety and crowd control at all wedding events.",
     "availability": ["2025-08-01", "2025-08-20"]
   },
@@ -22,7 +22,7 @@
     "name": "Daniel Maxwell",
     "location": "Abuja, Nigeria",
     "price": "₦120000",
-    "photo": "http://localhost:5000/images/Security.jpg",
+    "photo": "https://wed-server.onrender.com/images/Security.jpg",
     "bio": "Reliable chief security officer ensuring safety and crowd control at all wedding events.",
     "availability": ["2025-08-01", "2025-08-20"]
   },
@@ -31,7 +31,7 @@
     "name": "Diego Fernando",
     "location": "Port Harcourt, Nigeria",
     "price": "₦180000",
-    "photo": "http://localhost:5000/images/Continental_Chef.jpg",
+    "photo": "https://wed-server.onrender.com/images/Continental_Chef.jpg",
     "bio": "Specialist in continental wedding cuisine with 8 years of high-end event experience.",
     "availability": ["2025-07-18", "2025-08-10"]
   },
@@ -40,7 +40,7 @@
     "name": "DJ Xclusive",
     "location": "Lagos, Nigeria",
     "price": "₦100000",
-    "photo": "http://localhost:5000/images/Dj.jpg",
+    "photo": "https://wed-server.onrender.com/images/Dj.jpg",
     "bio": "Professional wedding DJ known for high-energy sets and unforgettable dance floors.",
     "availability": ["2025-07-25", "2025-08-05"]
   },
@@ -49,7 +49,7 @@
     "name": "Grace Events",
     "location": "Ibadan, Nigeria",
     "price": "₦200000",
-    "photo": "http://localhost:5000/images/event-planner.jpg",
+    "photo": "https://wed-server.onrender.com/images/event-planner.jpg",
     "bio": "Creative wedding planner offering end-to-end event coordination with flair.",
     "availability": ["2025-08-02", "2025-08-18"]
   },
@@ -58,7 +58,7 @@
     "name": "Daniel Crew",
     "location": "Enugu, Nigeria",
     "price": "₦90000",
-    "photo": "http://localhost:5000/images/guy.jpg",
+    "photo": "https://wed-server.onrender.com/images/guy.jpg",
     "bio": "Experienced ushering and logistics lead to keep your wedding smooth and timely.",
     "availability": ["2025-07-19", "2025-08-08"]
   },
@@ -67,7 +67,7 @@
     "name": "TechLights Pro",
     "location": "Lagos, Nigeria",
     "price": "₦75000",
-    "photo": "http://localhost:5000/images/IT.webp",
+    "photo": "https://wed-server.onrender.com/images/IT.webp",
     "bio": "Lighting and sound technicians offering smart ambiance setups for modern weddings.",
     "availability": ["2025-07-22", "2025-08-12"]
   },
@@ -76,7 +76,7 @@
     "name": "Max Guard",
     "location": "Kaduna, Nigeria",
     "price": "₦110000",
-    "photo": "http://localhost:5000/images/Security.jpg",
+    "photo": "https://wed-server.onrender.com/images/Security.jpg",
     "bio": "Experienced crowd security lead for large-scale weddings and private events.",
     "availability": ["2025-08-03", "2025-08-19"]
   },
@@ -85,7 +85,7 @@
     "name": "Wine Elegance",
     "location": "Uyo, Nigeria",
     "price": "₦95000",
-    "photo": "http://localhost:5000/images/wine.jpg",
+    "photo": "https://wed-server.onrender.com/images/wine.jpg",
     "bio": "Beverage and wine catering expert ensuring premium service at your celebration.",
     "availability": ["2025-07-30", "2025-08-17"]
   },
@@ -94,7 +94,7 @@
     "name": "PhotoVision Studio",
     "location": "Benin City, Nigeria",
     "price": "₦130000",
-    "photo": "http://localhost:5000/images/capture.jpg",
+    "photo": "https://wed-server.onrender.com/images/capture.jpg",
     "bio": "Award-winning wedding photographers capturing timeless moments with precision.",
     "availability": ["2025-08-06", "2025-08-25"]
   }
