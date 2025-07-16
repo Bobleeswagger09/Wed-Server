@@ -71,17 +71,9 @@
     "bio": "Lighting and sound technicians offering smart ambiance setups for modern weddings.",
     "availability": ["2025-07-22", "2025-08-12"]
   },
+
   {
     "id": "9",
-    "name": "Max Guard",
-    "location": "Kaduna, Nigeria",
-    "price": "₦110000",
-    "photo": "https://wed-server.onrender.com/images/Security.jpg",
-    "bio": "Experienced crowd security lead for large-scale weddings and private events.",
-    "availability": ["2025-08-03", "2025-08-19"]
-  },
-  {
-    "id": "10",
     "name": "Wine Elegance",
     "location": "Uyo, Nigeria",
     "price": "₦95000",
@@ -99,8 +91,8 @@
     "availability": ["2025-08-06", "2025-08-25"]
   },
   {
-    "id": "12",
-    "name": "Chinedu Bouncer",
+    "id": "11",
+    "name": "Victor Bouncer",
     "location": "Port Harcourt, Nigeria",
     "price": "₦80,000",
     "photo": "https://wed-server.onrender.com/images/bouncers.jpg",
@@ -108,7 +100,7 @@
     "availability": ["2025-08-10", "2025-08-22"]
   },
   {
-    "id": "13",
+    "id": "12",
     "name": "Ada Glam",
     "location": "Enugu, Nigeria",
     "price": "₦100,000",
@@ -117,7 +109,7 @@
     "availability": ["2025-08-12", "2025-08-25"]
   },
   {
-    "id": "14",
+    "id": "13",
     "name": "Yemi Designs",
     "location": "Ibadan, Nigeria",
     "price": "₦250,000",
@@ -126,7 +118,7 @@
     "availability": ["2025-08-05", "2025-08-30"]
   },
   {
-    "id": "15",
+    "id": "14",
     "name": "Elite SWAT Security",
     "location": "Kano, Nigeria",
     "price": "₦300,000",
