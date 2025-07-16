@@ -100,7 +100,7 @@
     "availability": ["2025-08-10", "2025-08-22"]
   },
   {
-    "id": "12",
+    "id": "13",
     "name": "Ada Glam",
     "location": "Enugu, Nigeria",
     "price": "₦100,000",
@@ -109,7 +109,7 @@
     "availability": ["2025-08-12", "2025-08-25"]
   },
   {
-    "id": "13",
+    "id": "14",
     "name": "Yemi Designs",
     "location": "Ibadan, Nigeria",
     "price": "₦250,000",
@@ -118,7 +118,7 @@
     "availability": ["2025-08-05", "2025-08-30"]
   },
   {
-    "id": "14",
+    "id": "15",
     "name": "Elite SWAT Security",
     "location": "Kano, Nigeria",
     "price": "₦300,000",
