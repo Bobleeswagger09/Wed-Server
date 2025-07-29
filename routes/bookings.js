@@ -6,7 +6,6 @@ const router = express.Router();
 
 const filePath = path.join(__dirname, "..", "bookings.json");
 
-// Helper to read from file
 function loadBookings() {
   try {
     const data = fs.readFileSync(filePath, "utf-8");
@@ -16,19 +15,30 @@ function loadBookings() {
   }
 }
 
-// Helper to write to file
 function saveBookings(bookings) {
   fs.writeFileSync(filePath, JSON.stringify(bookings, null, 2));
 }
 
-let bookings = loadBookings(); // Load initial bookings from file
+let bookings = loadBookings();
 
-// GET all bookings
+// ✅ GET all bookings with pagination
 router.get("/", (req, res) => {
-  res.json(bookings);
+  const page = parseInt(req.query.page) || 1;
+  const limit = parseInt(req.query.limit) || 10;
+  const skip = (page - 1) * limit;
+
+  const paginated = bookings.slice(skip, skip + limit);
+
+  res.json({
+    page,
+    limit,
+    totalItems: bookings.length,
+    totalPages: Math.ceil(bookings.length / limit),
+    data: paginated,
+  });
 });
 
-// POST new booking
+// ✅ POST a new booking
 router.post("/", (req, res) => {
   const { name, email, date, guests, coordinatorId } = req.body;
 
@@ -55,8 +65,8 @@ router.post("/", (req, res) => {
     coordinatorId,
   };
 
-  bookings.unshift(newBooking); // Add latest booking at the top
-  saveBookings(bookings); // Persist to file
+  bookings.unshift(newBooking);
+  saveBookings(bookings);
 
   res.status(201).json({ message: "Booking successful", booking: newBooking });
 });

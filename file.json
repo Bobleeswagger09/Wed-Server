@@ -82,6 +82,24 @@
     "availability": ["2025-07-30", "2025-08-17"]
   },
   {
+    "id": "9",
+    "name": "Wine Elegance",
+    "location": "Uyo, Nigeria",
+    "price": "₦95000",
+    "photo": "https://wed-server.onrender.com/images/wine.jpg",
+    "bio": "Beverage and wine catering expert ensuring premium service at your celebration.",
+    "availability": ["2025-07-30", "2025-08-17"]
+  },
+  {
+    "id": "10",
+    "name": "Akim Andrei",
+    "location": "Lagos, Nigeria",
+    "price": "₦105000",
+    "photo": "https://wed-server.onrender.com/images/camera.jpg",
+    "bio": "Capturing timeless moments with heart and precision, [Cameraman's Name] turns your special day into lasting memories.",
+    "availability": ["2025-10-30", "2025-12-12"]
+  },
+  {
     "id": "11",
     "name": "PhotoVision Studio",
     "location": "Benin City, Nigeria",
