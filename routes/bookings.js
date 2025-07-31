@@ -21,7 +21,7 @@ function saveBookings(bookings) {
 
 let bookings = loadBookings();
 
-// ✅ GET all bookings with pagination
+// GET all bookings with pagination
 router.get("/", (req, res) => {
   const page = parseInt(req.query.page) || 1;
   const limit = parseInt(req.query.limit) || 10;
@@ -38,7 +38,7 @@ router.get("/", (req, res) => {
   });
 });
 
-// ✅ POST a new booking
+//  POST a new booking
 router.post("/", (req, res) => {
   const { name, email, date, guests, coordinatorId } = req.body;
 
