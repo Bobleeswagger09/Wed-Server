@@ -144,33 +144,32 @@
     "bio": "Professional cleaning crew ensuring spotless venues before, during, and after your wedding. Reliable, efficient, and eco-friendly service",
     "availability": ["2025-08-22", "2025-09-05"]
   },
-  [
-    {
-      "id": "17",
-      "name": "Joy Weddings",
-      "location": "Lagos, Nigeria",
-      "price": "₦220000",
-      "photo": "https://wed-server.onrender.com/images/joy.webp",
-      "bio": "Exceptional wedding planning with a personal touch and joyful memories.",
-      "availability": ["2025-08-10", "2025-08-30"]
-    },
-    {
-      "id": "18",
-      "name": "Amara Events",
-      "location": "Enugu, Nigeria",
-      "price": "₦185000",
-      "photo": "https://wed-server.onrender.com/images/wedplanner.jpg",
-      "bio": "Elegant wedding decorators and planners with flair for traditional & modern themes.",
-      "availability": ["2025-08-14", "2025-09-02"]
-    },
-    {
-      "id": "19",
-      "name": "Eve and Co",
-      "location": "Abuja, Nigeria",
-      "price": "₦300000",
-      "photo": "https://wed-server.onrender.com/images/eve.webp",
-      "bio": "Luxury wedding styling and coordination for timeless, high-class celebrations.",
-      "availability": ["2025-08-20", "2025-09-10"]
-    }
-  ]
+
+  {
+    "id": "17",
+    "name": "Joy Weddings",
+    "location": "Lagos, Nigeria",
+    "price": "₦220000",
+    "photo": "https://wed-server.onrender.com/images/joy.webp",
+    "bio": "Exceptional wedding planning with a personal touch and joyful memories.",
+    "availability": ["2025-08-10", "2025-08-30"]
+  },
+  {
+    "id": "18",
+    "name": "Amara Events",
+    "location": "Enugu, Nigeria",
+    "price": "₦185000",
+    "photo": "https://wed-server.onrender.com/images/wedplanner.jpg",
+    "bio": "Elegant wedding decorators and planners with flair for traditional & modern themes.",
+    "availability": ["2025-08-14", "2025-09-02"]
+  },
+  {
+    "id": "19",
+    "name": "Eve and Co",
+    "location": "Abuja, Nigeria",
+    "price": "₦300000",
+    "photo": "https://wed-server.onrender.com/images/eve.webp",
+    "bio": "Luxury wedding styling and coordination for timeless, high-class celebrations.",
+    "availability": ["2025-08-20", "2025-09-10"]
+  }
 ]
